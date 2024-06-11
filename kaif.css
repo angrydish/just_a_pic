@@ -960,7 +960,7 @@ button[aria-label="Send a gift"] {
 }
 .wordmark__5b8c9:after {
   filter: invert(var(--watermark-filter-invert)) sepia(var(--watermark-filter-sepia)) saturate(var(--watermark-filter-saturate)) hue-rotate(var(--watermark-filter-hue-rotate)) brightness(var(--watermark-filter-brightness)) contrast(var(--watermark-filter-contrast));
-  content: url("https://w1.pngwing.com/pngs/548/956/png-transparent-bird-silhouette-goose-duck-computer-software-fowl-beak-water-bird-ducks-geese-and-swans.png");
+  content: url("");
 }
 
 .channelName-3KPsGw,
